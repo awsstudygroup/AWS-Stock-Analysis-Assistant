@@ -53,10 +53,6 @@ The app will be accessible at `http://localhost:8080`. You can now use the inter
 
 ---
 
-## Architecture Overview
-
-![Architecture](./Architecture.png)
-
 ### Key Components:
 - **Amazon Bedrock**: A service enabling easy deployment of foundation models.
 - **Claude 3**: Anthropic’s advanced AI model used for natural language processing and generation.
